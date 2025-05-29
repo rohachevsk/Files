@@ -1,5 +1,5 @@
 #include <iostream>  
-#include <cstdio> // Для использования fopen_s  
+#include <cstdio>
 using namespace std;  
 
 struct Student {  
